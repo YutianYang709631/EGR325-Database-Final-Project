@@ -3,9 +3,9 @@ Professor: Larry W. Clement
 
 <h3>Team</h3>
 
-- Dinel Furdui 
+- Daniel Furdui https://github.com/DanielFurdui
 - Yutian Yang https://github.com/YutianYang709631
-- Nathanial Furdui https://github.com/DanielFurdui
+- Nathanial Furdui 
 - Victor Omusi https://github.com/VictorOmusi
 
 <h3>Project description</h3>
