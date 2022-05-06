@@ -26,17 +26,28 @@ and design and implement a relational database system to support the organizatio
 <h3>User Stories</h3>
 
 >As a Waiter, I would like to add parties to the waitlist so that I can check for any available tables.
-As a Waiter, I want to assign parties to the appropriate sized table so that I can know if I can seat them.
-As a Waiter, I want to know if a table is occupied so that I can assign a party to a table if it is or not.
-As a Waiter, I would like to assign a party to a table from a tablet so that the table can show that it’s occupied.
-As a Waiter, I want the party to be removed from waitlist when seated so that I know that they’re not waiting for a table anymore.
-As a Waiter, I would like to take orders from a tablet so that I won’t need to write it down on paper.
-As a Waiter, I would like to see all purchasable foods from the tablet so that I won’t forget what’s available.
-As a Waiter, I want to keep track of the quantity of an item so that I don’t need to add another order of the same item.
-As a Waiter, I want to know the price of an item so that the party is informed.
-As a Waiter, I would like to send the order to the chef from the tablet so that I wouldn’t need to walk to the kitchen.
-As a Waiter, I want to print the order, order total with tax from the tablet so that I wouldn’t need to go to a computer to do it.
-As a Waiter, I would like to keep track of all tips from the tablet so that it can be even distributed to all employees.
+
+>As a Waiter, I want to assign parties to the appropriate sized table so that I can know if I can seat them.
+
+>As a Waiter, I want to know if a table is occupied so that I can assign a party to a table if it is or not.
+
+>As a Waiter, I would like to assign a party to a table from a tablet so that the table can show that it’s occupied.
+
+>As a Waiter, I want the party to be removed from waitlist when seated so that I know that they’re not waiting for a table anymore.
+
+>As a Waiter, I would like to take orders from a tablet so that I won’t need to write it down on paper.
+
+>As a Waiter, I would like to see all purchasable foods from the tablet so that I won’t forget what’s available.
+
+>As a Waiter, I want to keep track of the quantity of an item so that I don’t need to add another order of the same item.
+
+>As a Waiter, I want to know the price of an item so that the party is informed.
+
+>As a Waiter, I would like to send the order to the chef from the tablet so that I wouldn’t need to walk to the kitchen.
+
+>As a Waiter, I want to print the order, order total with tax from the tablet so that I wouldn’t need to go to a computer to do it.
+
+>As a Waiter, I would like to keep track of all tips from the tablet so that it can be even distributed to all employees.
 
 <h3>System Inputs/Outputs</h3>
 
